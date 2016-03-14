@@ -1,0 +1,12 @@
+section {
+	min-height: 700px;
+}
+#hero {
+	background-image: url(img/hero.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	position: relative;
+}
